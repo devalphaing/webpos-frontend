@@ -1,0 +1,18 @@
+.home-img-container {
+    padding: 1rem 0rem 0rem 0rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .home-img-card {
+    width: calc(33.33% - 1rem); /* Adjust margin as needed */
+    margin-bottom: 20px; /* Adjust margin as needed */
+  }
+  
+  .home-img-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px; /* Add border radius for card-like appearance */
+  }
+  
